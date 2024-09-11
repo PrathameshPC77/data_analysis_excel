@@ -23,7 +23,7 @@ The objective of this project is to assist the Vrinda Store owner in analyzing a
 - Data was thoroughly checked for missing values and any inconsistencies were corrected.
 - Ensured that the data was clean and consistent in terms of data types, formats, and values.
 - Created pivot tables addressing the KPIs listed above.
-- Combined the pivot tables into a single, interactive dashboard with slicers for better user engagement. The interactive dashboard can be accessed [here](https://github.com/PrathameshPC77/data_analysis_excel/blob/main/Vrinda%20Store%20Data%20Analysis%20-%20Report.xlsx)
+- Combined the pivot tables into a single, interactive dashboard with slicers for better user engagement. The interactive dashboard can be accessed [here](https://github.com/PrathameshPC77/data_analysis_excel/blob/main/Vrinda%20Store%20Data%20Analysis%20-%20Dashboard.pdf)
 
 ## **Dashboard**
 
